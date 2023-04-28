@@ -21,7 +21,7 @@ Olá, fiz esse projeto com a biblioteca Tkinter. Utilizei o VScode para desenvol
 
 # Como ter acesso ao código deste projeto?
 
-Você poderá acessar a pasta `Calculadora` logo acima. Ou:
+Você poderá acessar a pasta `Relógio` logo acima. Ou:
 
 - Clone o repositório do GitHub. Você pode usar o comando git clone `https://github.com/<nome do usuário>/<nome do repositório>` no terminal de comando do seu sistema operacional1.
 - Dentro da pasta do projeto clonado, restaure os pacotes NuGet necessários para o projeto. Você pode usar o comando nuget.exe restore no terminal de comando2.
